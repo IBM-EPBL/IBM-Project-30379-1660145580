@@ -1,0 +1,6 @@
+Current Temperature is 86
+Current Humidity is 89%
+Alarm is OFF
+
+
+
